@@ -17,6 +17,3 @@ const japaneseRestaurant = {
 
 const [appetizer, main] = japaneseRestaurant.orderFood(3, 1)
 
-const myArr = [5, 1, [6, 4]]
-const [,,[a,b]] = myArr
-console.log(a,b);
