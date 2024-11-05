@@ -27,7 +27,7 @@ const japaneseRestaurant = {
         ]
     }
 };
-const x = 'fjdsk'
-const {wed:timeOfWorking} = japaneseRestaurant.workingHours;
+
+const {weed:timeOfWorking={}} = japaneseRestaurant.workingHours;
 console.log(timeOfWorking);
 
