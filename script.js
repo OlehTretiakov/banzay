@@ -59,7 +59,8 @@ const japaneseRestaurant = {
 // Task 4
 
 /* Write a program that takes a list of variable names written in underscore_case and converts them to camelCase.
-Input will come from a textarea html element inserted into the DOM (see code below to insert elements) and the transformation will happen when the button is clicked.
+Input will come from a textarea html element inserted into the DOM (see code below to insert elements) and the
+ transformation will happen when the button is clicked.
 
 Test data (for inserting into the textarea including spaces):
 
